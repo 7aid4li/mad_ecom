@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **Name		:	Zaid Ali**  
 **Reg\#		:	FA23-BCS-170**  
 **Section	:	C**
